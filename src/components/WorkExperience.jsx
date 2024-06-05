@@ -14,6 +14,22 @@ const experiences = [
   },
   {
     id: 2,
+    date: 'Aug 2023 - Dec 2023',
+    title: 'Software Engineer',
+    company: 'TOPSYS IT, United States',
+    description: [
+      "Developed and maintained dynamic user interfaces using ReactJS, leveraging React hooks for state and lifecycle management to enhance user engagement.",
+      "Implemented front-end screens and handled REST API calls with AJAX, processing JSON data responses for display and validation.",
+      "Utilized MySQL for database management, working with file management and image libraries.",
+      "Implemented backend Web API with Node.js and Express.js, establishing robust connectivity with MySQL.",
+      "Wrote unit tests for Node.js backend services using Mocha, for reliable and optimized code performance."      
+    ],
+    tools: [
+      "HTML5", "CSS3", "JavaScript", "ReactJS", "NodeJS", "ExpressJS", "NPM", "Redux", "REST", "AJAX", "JSON", "SQL", "MySQL", "Mocha"
+    ]
+  },
+  {
+    id: 3,
     date: 'May 2023 - Dec 2023',
     title: 'Data Science Engineer',
     company: 'Wi-Tronix, Bolingbrook, United States',
@@ -29,51 +45,19 @@ const experiences = [
     ]
   },
   {
-    id: 3,
-    date: 'Aug 2019 - Jul 2022',
-    title: 'Software Engineer',
-    company: 'Smart-M Technovations Pvt Ltd, Bangalore, India',
-    description: [
-    "Collaborated with clients and stakeholders to gather detailed project requirements and defined the scope of work.",
-    "Developed a feature-rich web application with an intuitive UI/UX design, allowing users to register/login, browse the website, and utilize functionalities based on their access privileges.",
-    "Crafted dynamic and interactive web pages using ReactJS and VueJS, enhancing user experience and engagement while ensuring cross-browser compatibility and responsiveness.",
-    "Made extensive use of JavaScript libraries/frameworks, including ReactJS, Bootstrap, and Ajax, to build single page apps (SPA) and scalable, reusable web components.",
-    "Developed scalable RESTful APIs using Node.js, handling over 10,000 monthly users and ensuring efficient data processing.",
-    "Implemented AJAX calls for asynchronous communication, improving the responsiveness of the application.",
-    "Utilized JSON for data interchange between client and server, ensuring seamless data validation and display.",
-    "Integrated front-end components with back-end services like AWS Lambda and third-party APIs, including payment gateways and social media logins, ensuring smooth data flow and enhanced application functionality.",
-    "Demonstrated deep understanding of JavaScript concepts and libraries, including Objects, Closures, Callbacks, and DOM manipulation, contributing to efficient and optimized code development.",
-    "Performed unit testing on code components using Jest and Mocha, leveraging Jest's efficient snapshot testing and Mocha's flexible, feature-rich test framework to ensure reliable and optimized code performance.",
-    "Implemented CI/CD pipelines with GitHub Actions to automate testing and deployment, reducing manual intervention and accelerating release cycles.",
-    "Fixed bugs and resolved issues reported by users or identified during testing, constantly improving the application.",
-    "Utilized Git for maintaining code versions and consistently maintained coding standards to ensure compliance with software development processes.",
-    "Gathered and reflected on user feedback through surveys, using analytics and insights to drive better results."
-    ],
-    tools: [
-      'Python', 'Scikit-Learn', 'Numpy', 'Pandas', 'SQL', 'S3', 'GIT', 'MySQL', 'SQL Server Management Studio', 'Tableau', 'V7', 'SuperAnnotate'
-    ]
-  },
-  {
     id: 4,
-    date: 'Aug 2016 - Jul 2019',
-    title: 'Junior Software Engineer',
-    company: 'Smart-M Technovations Pvt Ltd, Bangalore, India',
+    date: 'Jan 2021 - Jul 2022',
+    title: 'Software Engineer',
+    company: 'Avco Consulting, Inc, Hyderabad, India',
     description: [
-  "Associated with clients to learn and define project scope that aligns with the business objectives.",
-  "Developed and maintained dynamic user interfaces using ReactJS, employing React hooks for state management and component lifecycle management, generating better user engagement.",
-  "Implemented multiple screens for the client project that makes use of ReactJS, along with predefined components from NPM and Redux libraries to enhance the functionalities of the application.",
-  "Utilized HTML, CSS, AJAX controls, and JSON for web page design and development, handling REST API calls with AJAX and processing JSON data responses to ensure seamless data display and validation.",
-  "Added TypeScript to React components and implemented unit tests to decrease potential bugs, contributing to improved code quality and reliability.",
-  "Utilized MongoDB for database management and optimized database transactions to improve application performance.",
-  "Created and maintained stored procedures and views, improving query efficiency.",
-  "Leveraged Java for backend development and utilized Object-Oriented Programming (OOP) concepts to develop reusable UI components, improving development efficiency and code maintainability.",
-  "Collaborated with Quality Analysts to fix bugs during Quality Assurance and User Acceptance Testing, ensuring the delivery of high-quality software products.",
-  "Integrated front-end and back-end systems using Jenkins for continuous integration and deployment, ensuring smooth integration and automated deployment processes.",
-  "Actively participated in an Agile (Scrum) Development Team, following best practices such as code modularization, unit testing, UI validations, and peer reviews, ensuring project success and timely delivery.",
-  "Demonstrated expertise in bug tracking tool JIRA and code integration/deployment tool Jenkins, ensuring efficient project management and streamlined development processes."
+      "Crafted dynamic and interactive web pages using ReactJS and VueJS, significantly enhancing user experience and engagement while ensuring cross-browser compatibility and responsiveness.",
+      "Developed a feature-rich web application with intuitive UI/UX design, integrating backend Web APIs with NodeJS and ExpressJS to build scalable RESTful services handling over 10,000 monthly users.",
+      "Created RESTful microservices using Java, Spring Boot, and Spring Data JPA, ensuring efficient data processing and seamless integration.",
+      "Performed unit testing on code components using Jest and Mocha, ensuring reliable and optimized code performance through efficient snapshot testing and a flexible, feature-rich test framework.",
+      "Implemented CI/CD pipelines with GitHub Actions to automate testing and deployment, reducing manual intervention and accelerating release cycles."
     ],
     tools: [
-      "Java", "HTML", "Spring Boot", "Redux", "ReactJS", "MongoDB", "GitHub", "Jenkins", "JIRA"
+      "Java", "HTML5", "CSS3", "JavaScript", "ReactJS", "React Hooks", "React Router", "VueJS", "SpringBoot", "JSON", "NPM", "Bootstrap", "Ajax", "NodeJS", "Visual Studio Code", "GIT"
     ]
   }
   // Add more experiences as needed

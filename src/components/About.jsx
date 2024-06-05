@@ -11,9 +11,9 @@ const About = () => {
             <img src={profilePicture} className="img-fluid pic" alt="Akhil" />
           </div>
           <div className="col-12 col-lg-6">
-            <h2 className="about-title">Akhilesh Reddy</h2>
+            <h2 className="about-title">Akhilesh Reddy Katapally</h2>
             <p className="about-text">
-            Hi! I'm Akhilesh. With over 7 years of experience in developing and maintaining dynamic user interfaces and robust backend systems, I have contributed to high-quality software products. I am committed to continuous learning and growth, always staying updated with the latest technologies and best practices to deliver exceptional results.
+            Hi! I'm Akhilesh. With over 2 years of experience in developing and maintaining dynamic user interfaces and robust backend systems, I have contributed to high-quality software products. I am committed to continuous learning and growth, always staying updated with the latest technologies and best practices to deliver exceptional results.
             </p>
           </div>
         </div>

@@ -16,7 +16,7 @@ const Contact = () => {
       message,
     };
 
-    emailjs.send('service_oq4sc9j', 'template_1ckz9kk', templateParams, 'jOvvjAa4GjbsLPShq')
+    emailjs.send('service_wep7j8m', 'template_21n29yf', templateParams, 'jOvvjAa4GjbsLPShq')
       .then((response) => {
         console.log('SUCCESS!', response.status, response.text);
         setName('');
