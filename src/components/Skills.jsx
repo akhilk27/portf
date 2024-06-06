@@ -2,7 +2,7 @@ import React from 'react';
 import './Skills.css';
 
 const skills = {
-  Languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  Languages: ['Python', 'Java', 'C++', 'C', 'PHP', 'R', 'SQL', 'Ruby'],
   'Web Technologies': ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'jQuery', 'React', 'Express', 'NodeJS', 'VueJS', 'Spring Boot'],
   Databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
   Frameworks: ['.Net', 'NodeJS', 'REST', 'Scikit-Learn', 'TensorFlow', 'PyTorch', 'Keras', 'OpenCV', 'PySpark', 'Matplotlib', 'Django', 'Seaborn', 'Pandas', 'Numpy'],
